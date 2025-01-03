@@ -42,3 +42,13 @@ N = 3
 
 here, the inner loop is gonna print the values n times for each n row, but the value is the n row value. 1st row -> 1 number with value 1, 2nd row -> 2 numbers, with value 2
 print i here.
+
+example 5 : invereted right angle triangle
+
+N = 3
+* * *
+* *
+*
+
+here, the inner loop should be decreasing, i=0, we have n stars, i=1 we have n-1.. so on
+
