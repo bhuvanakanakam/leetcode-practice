@@ -1,0 +1,15 @@
+so patterns are always implemented with nested for loops.
+- the outer loop is gonna represent the rows/lines
+- the inner loop is gonna show the number of coloumns, and try to link the coloumns to the number of rows somehow.
+- optional : try to find symmetry
+- alwasy print whatever is to be printed, inside the for loop only.
+
+example 1 :
+
+N = 4
+* * * *
+* * * *
+* * * *
+* * * *
+
+here, the there are 4 rows and each row has 4 stars.
