@@ -4,7 +4,7 @@ so patterns are always implemented with nested for loops.
 - optional : try to find symmetry
 - alwasy print whatever is to be printed, inside the for loop only.
 
-example 1 :
+example 1 : rectangular star pattern
 
 N = 4
 * * * *
@@ -13,3 +13,14 @@ N = 4
 * * * *
 
 here, the there are 4 rows and each row has 4 stars.
+
+example 2 : right angled triangle
+
+N = 4
+*
+* *
+* * *
+* * * *
+
+here, the lower right angle triangle is visualized, each row has that many stars, 1st row -> 1 star, 2nd row -> 2 stars, etc..
+
