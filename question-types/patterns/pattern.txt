@@ -24,3 +24,11 @@ N = 4
 
 here, the lower right angle triangle is visualized, each row has that many stars, 1st row -> 1 star, 2nd row -> 2 stars, etc..
 
+example 3 : right angle numbered pyramid
+
+N = 3
+1
+1 2
+1 2 3
+
+lower triangle of the pattern filled with integers starting from 1.
