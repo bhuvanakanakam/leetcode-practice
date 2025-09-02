@@ -4,5 +4,7 @@
 
 class Solution:
   def printNumber(self):
-    integerNumber = input();
+    number = input();
+    // have to convert the number to int, because the input() takes string by default
+    integerNumber = int(number)
     print(integerNumber);
